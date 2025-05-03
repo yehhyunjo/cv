@@ -2,7 +2,7 @@
 title: "Yehhyun Jo"
 ---
 
-![Profile Photo](2023_KSBNS.jpg){: style="width:350px; float:right; margin-left:20px; border-radius:5px;" }
+![Profile Photo](2023_KSBNS.jpg){: style="width:500px; float:right; margin-left:20px; border-radius:5px;" }
 
 # Yehhyun Jo
 
