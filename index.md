@@ -99,7 +99,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 ---
 
-**Journal review**
+**Reviewer work**
 
 - NPJ Acoustics, 2025
 - Journal of NeuroEngineering and Rehabilitation, 2025
