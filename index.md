@@ -67,14 +67,14 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 ![Cover Image 1](assets/brain_stimulation_2021_cover.jpg){: style="height:180px; float:right; margin-left:20px; border-radius:1px;" }
 ![Cover Image 2](assets/advanced_science_2022_cover.jpg){: style="height:180px; float:right; margin-left:20px; border-radius:1px;" }
-
-**Honors & Awards**
+  
+**Honors & Awards**  
 
 - **Hanchulhee Augustino Scholarship**, KAIST EE, Spring 2024  
 - **Top 10 Research Achievements**, KAIST, 2022  
 - **Frontispiece Paper**, *Advanced Science*, 2022  
 - **Cover Article**, *Brain Stimulation*, 2021  
-- **Grand Prize**, KAIST URP Program, 2018–2019
+- **Grand Prize**, KAIST URP Program, 2018–2019  
 
 ---
 
