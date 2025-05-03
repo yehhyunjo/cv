@@ -2,7 +2,7 @@
 title: Yehhyun Jo
 ---
 
-![Profile Photo](2023_KSBNS.jpg){: style="width:250px; float:right; margin-left:20px; border-radius:12px;" }
+![Profile Photo](2023_KSBNS.jpg){: style="width:300px; float:right; margin-left:20px; border-radius:10px;" }
 
 Curriculum Vitae
 
