@@ -9,7 +9,8 @@ title: "Yehhyun Jo"
 Curriculum Vitae
 
 **Ph.D. Candidate, KAIST School of Electrical Engineering**    
-Advisor: Hyunjoo Jenny Lee Ph.D. [BMM Lab](https://bmm.kaist.ac.kr)  
+Advisor: Hyunjoo Jenny Lee Ph.D.  
+[BMM Lab](https://bmm.kaist.ac.kr)  
 
 Email: yehhyunjo18@kaist.ac.kr  
 [LinkedIn](https://www.linkedin.com/in/yehhyun-jo-01654924a)  
