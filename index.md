@@ -11,7 +11,7 @@ Curriculum Vitae
 Ph.D. Candidate, KAIST School of Electrical Engineering  
 
 Email: yehhyunjo18@kaist.ac.kr  
-[LinkedIn](www.linkedin.com/in/yehhyun-jo-01654924a)
+[LinkedIn](https://www.linkedin.com/in/yehhyun-jo-01654924a)
 
 ---
 Hi, I’m Yehhyun, a biomedical engineering researcher with a focus on low-intensity focused ultrasound (LIFU) stimulation for therapeutics. I’m currently a PhD student at KAIST advised by Hyunjoo Jenny Lee PhD, where I’m building tools and techniques that bridge neural engineering, imaging, and therapeutics.
