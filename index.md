@@ -82,13 +82,13 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 **Conferences**
 
-- IEEE MEMS, Taiwan, 2025  
+- IEEE MEMS, Kaohsiung, Taiwan, 2025  
 - KSBNS Conference, Gyeongju, Korea, 2024  
-- ‘Young Scientist’ Minisymposium, KSBNS, Busan, Korea, 2023  
-- MRS Spring Meeting, Honolulu, USA, 2022  
-- IEEE EMBS NER, Virtual, 2021
-- IEEE MEMS, Vancouver, Canada, 2020
-- IEEE EMBC, Berlin, Germany, 2019
+- ‘Young Scientist’ Minisymposium, KSBNS Conference, Busan, Korea, 2023  
+- MRS Spring Meeting, Honolulu, Hawaii, USA, 2022  
+- IEEE EMBS NER, Virtual, 2021  
+- IEEE MEMS, Vancouver, Canada, 2020  
+- IEEE EMBC, Berlin, Germany, 2019  
 
 ---
 
