@@ -15,7 +15,7 @@ Email: yehhyunjo18@kaist.ac.kr
 ---
 Hi, I’m Yehhyun, a biomedical engineering researcher with a focus on low-intensity focused ultrasound (LIFU) stimulation for therapeutics. I’m currently a PhD student at KAIST advised by Hyunjoo Jenny Lee PhD, where I’m building tools and techniques that bridge neural engineering, imaging, and therapeutics.
 
-My research explores how we can noninvasively stimulate specific neural circuits using ultrasound, with a particular interest in targeting mechanosensitive ion channels. I design closed-loop systems that combine electrophysiology, calcium imaging, and genetic tools to precisely map and modulate brain activity in real time.
+My research explores how we can noninvasively stimulate specific neural circuits using ultrasound. I design closed-loop systems that combine electrophysiology, calcium imaging, and genetic tools to precisely map and modulate brain activity in real time.
 
 If you’re interested in neuromodulation, mechanotransduction, or collaborative tool development for neuroscience, feel free to get in touch.
 
