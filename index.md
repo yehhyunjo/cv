@@ -8,22 +8,12 @@ Curriculum Vitae
 
 Ph.D. Candidate, KAIST School of Electrical Engineering  
 
-**Ultrasound neuromodulation**, **Ultrasound technologies**, **Biomedical engineering**  
-📧 yehhyunjo18@kaist.ac.kr  
+Email: yehhyunjo18@kaist.ac.kr  
 🌐 [Google Scholar](https://scholar.google.com/citations?user=Zamd4igAAAAJ&hl=en)
-[View Full Publication List](github/publication/publication.md)
 
 ---
 
-## 🧠 Research Interests
-
-- Noninvasive brain stimulation using low-intensity focused ultrasound (LIFU)
-- Closed-loop neuromodulation systems
-- Ultrasound transducer design and fabrication
-
----
-
-## 🎓 Education
+**Education**
 
 **Ph.D. in Electrical Engineering** — KAIST (Expected 2025)  
 Advisor: Hyunjoo Jenny Lee
@@ -36,7 +26,7 @@ Minor in Science and Technology Policy
 
 ---
 
-## 🧪 Visiting Experience
+**Visiting experience**
 
 **Stanford University**, Department of Electrical Engineering  
 *Visiting Student Researcher*, Fall 2024 – Spring 2025  
@@ -44,20 +34,20 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 ---
 
-## 📄 Selected Publications
+**Selected publications**
 
-1. Yehhyun Jo, Subeen Kim, Jinseong Jeong, and Hyunjoo Jenny Lee.  
+1. **Yehhyun Jo**, Subeen Kim, Jinseong Jeong, and Hyunjoo Jenny Lee.  
    **"Ultrasound brain stimulation technologies for targeted therapeutics."** *Nature Electronics*, Accepted.
 
-2. Yehhyun Jo†, Xiaojia Liang†, Hanh Nguyen Hong, et al.  
+2. **Yehhyun Jo†**, Xiaojia Liang†, et al.  
    **"Selective manipulation of excitatory and inhibitory neurons using ultrasound stimulation."** *Brain Stimulation*, Accepted.
 
-3. Jaeyoung Lee, Ye Eun Kim, Jihong Lim, Yehhyun Jo, et al.  
-   **"Focused ultrasound in the infralimbic cortex facilitates extinction of conditioned fear in rats."** *Brain Stimulation*, 2024.
+3. **Yehhyun Jo**, Sang-Mok Lee, et al.  
+   **"General‐Purpose Ultrasound Neuromodulation System for Chronic, Closed‐Loop Preclinical Studies in Freely Behaving Rodents."** *Advanced Science*, 2022.
 
 ---
 
-## 🏆 Honors & Awards
+**Honors & Awards**
 
 - **Hanchulhee Augustino Scholarship**, KAIST EE, Spring 2024  
 - **Top 10 Research Achievements**, KAIST, 2022  
@@ -67,7 +57,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 ---
 
-## 🎤 Conferences
+**Conferences**
 
 - IEEE MEMS, Taiwan, 2025  
 - KSBNS Conference, Gyeongju, Korea, 2024  
@@ -77,7 +67,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 ---
 
-## 🧬 Patents
+**Patents**
 
 - **Ultrasonic holography device**, KR Patent No. 10-2283276  
 - **3D electrophysiology recording apparatus**, KR Patent No. 10-2326160, US Pending
