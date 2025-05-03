@@ -8,7 +8,7 @@ title: "Yehhyun Jo"
 
 Curriculum Vitae
 
-Ph.D. Candidate, KAIST School of Electrical Engineering  
+**Ph.D. Candidate, KAIST School of Electrical Engineering**    
 Advisor: Hyunjoo Jenny Lee Ph.D. [BMM Lab](https://bmm.kaist.ac.kr)  
 
 Email: yehhyunjo18@kaist.ac.kr  
@@ -66,6 +66,9 @@ Advisor: Hyongsok Tom Soh Ph.D.
 ---
 
 **Honors & Awards**
+
+![Cover Image 1](assets/brain_stimulation_2021_cover.jpg){: style="height:220px; float:right; margin-left:20px; border-radius:1px;" }
+![Cover Image 2](assets/advanced_science_2022_cover.jpg){: style="height:220px; float:right; margin-left:20px; border-radius:1px;" }
 
 - **Hanchulhee Augustino Scholarship**, KAIST EE, Spring 2024  
 - **Top 10 Research Achievements**, KAIST, 2022  
