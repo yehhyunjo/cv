@@ -7,7 +7,7 @@ title: Yehhyun Jo
 Curriculum Vitae
 
 Ph.D. Candidate, KAIST School of Electrical Engineering  
-Visiting Student Researcher, Stanford University (2024–2025)  
+
 **Ultrasound neuromodulation**, **Ultrasound technologies**, **Biomedical engineering**  
 📧 yehhyunjo18@kaist.ac.kr  
 🌐 [Google Scholar](https://scholar.google.com/citations?user=Zamd4igAAAAJ&hl=en)
@@ -37,9 +37,9 @@ Minor in Science and Technology Policy
 
 ## 🧪 Visiting Experience
 
-**Stanford University**, Department of Bioengineering  
+**Stanford University**, Department of Electrical Engineering  
 *Visiting Student Researcher*, Fall 2024 – Spring 2025  
-Advisor: Hyongsok Tom Soh
+Advisor: Hyongsok Tom Soh Ph.D.
 
 ---
 
@@ -80,23 +80,5 @@ Advisor: Hyongsok Tom Soh
 
 - **Ultrasonic holography device**, KR Patent No. 10-2283276  
 - **3D electrophysiology recording apparatus**, KR Patent No. 10-2326160, US Pending
-
----
-
-## 🎓 Teaching & Mentoring
-
-- Brain Stimulation Team Leader, KAIST Biomedical Microsystems Lab  
-- URP Mentor, 2023 & 2021 (Holographic ultrasound, non-invasive targeting)  
-- TA, My Life and Career in EE, 2024  
-- TA, Electronics Design Lab & Physical Electronics, 2019–2023  
-- TA, Scientific Writing, 2017 & 2019
-
----
-
-## 🎯 Activities
-
-- **KAIST Herald** (English newspaper) — Head of Society Division  
-- **ICISTS Conference** (Science/Tech/Society) — Organizing Committee  
-- **Tennis**, Graduate Club
 
 ---
