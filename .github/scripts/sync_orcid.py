@@ -1,6 +1,3 @@
-curl https://pub.orcid.org/v3.0/0000-0003-4731-240X/works \
-  -H "Accept: application/json" \
-  -o orcid_works.json
 import json
 import os
 
