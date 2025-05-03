@@ -1,10 +1,10 @@
 ---
-title: Yehhyun Jo CV
+title: Yehhyun Jo
 ---
 
-![Profile Photo](2023_KSBNS.jpg){: style="width:150px; float:right; margin-left:20px; border-radius:50%;" }
+![Profile Photo](2023_KSBNS.jpg){: style="width:300px; float:left; margin-left:10px;" }
 
-# Yehhyun Jo
+Curriculum Vitae:
 
 Ph.D. Candidate at KAIST
 Visiting Student Researcher, Stanford University  
