@@ -36,7 +36,7 @@ Minor in Science and Technology Policy
 Advisor: Hyongsok Tom Soh Ph.D.
 
 ---
-🌐 [All publications](https://scholar.google.com/citations?user=Zamd4igAAAAJ&hl=en)
+🌐 **[All publications](https://scholar.google.com/citations?user=Zamd4igAAAAJ&hl=en)**
 
 **Selected publications**
 
