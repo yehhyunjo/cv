@@ -11,6 +11,7 @@ Ph.D. Candidate, KAIST School of Electrical Engineering
 **Ultrasound neuromodulation**, **Ultrasound technologies**, **Biomedical engineering**  
 📧 yehhyunjo18@kaist.ac.kr  
 🌐 [Google Scholar](https://scholar.google.com/citations?user=Zamd4igAAAAJ&hl=en)
+[View Full Publication List](github/publication/publication.md)
 
 ---
 
