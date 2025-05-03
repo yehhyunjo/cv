@@ -45,6 +45,9 @@ Advisor: Hyongsok Tom Soh Ph.D.
 3. **Yehhyun Jo**, Sang-Mok Lee, et al.  
    **"General‐Purpose Ultrasound Neuromodulation System for Chronic, Closed‐Loop Preclinical Studies in Freely Behaving Rodents."** *Advanced Science*, 2022.
 
+4. Seongyeon Kim†, **Yehhyun Jo†**, et al.  
+   **"Transcranial focused ultrasound stimulation with high spatial resolution."** *Brain Stimulation*, 2021.
+
 ---
 
 **Honors & Awards**
