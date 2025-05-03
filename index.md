@@ -4,7 +4,7 @@ title: Yehhyun Jo
 
 ![Profile Photo](2023_KSBNS.jpg){: style="width:250px; float:right; margin-left:20px; border-radius:12px;" }
 
-# Yehhyun Jo
+Curriculum Vitae
 
 Ph.D. Candidate, KAIST School of Electrical Engineering  
 Visiting Student Researcher, Stanford University (2024–2025)  
