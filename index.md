@@ -43,7 +43,7 @@ Advisor: Joo-Min Park Ph.D.
 Advisor: Hyongsok Tom Soh Ph.D.
 
 ---
-🌐 **[All publications](https://scholar.google.com/citations?user=Zamd4igAAAAJ&hl=en)**
+🌐 **[All publications - Google Scholar](https://scholar.google.com/citations?user=Zamd4igAAAAJ&hl=en)**
 
 **Selected publications**
 
