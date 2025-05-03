@@ -13,6 +13,8 @@ Email: yehhyunjo18@kaist.ac.kr
 
 ---
 
+---
+
 **Education**
 
 **M.S. in Electrical Engineering** — KAIST, 2022  
@@ -37,12 +39,15 @@ Advisor: Hyongsok Tom Soh Ph.D.
    **"Ultrasound brain stimulation technologies for targeted therapeutics."** *Nature Electronics*, Accepted.
 
 2. **Yehhyun Jo†**, Xiaojia Liang†, et al.  
-   **"Selective manipulation of excitatory and inhibitory neurons using ultrasound stimulation."** *Brain Stimulation*, Accepted.
+   **"Selective manipulation of excitatory and inhibitory neurons in top-down and bottom-up visual pathways using ultrasound stimulation of corticothalamic regions."** *Brain Stimulation*, 2025.
 
-3. **Yehhyun Jo**, Sang-Mok Lee, et al.  
+3. Subeen Kim†, **Yehhyun Jo†**, et al.  
+   **"Miniaturized MR-compatible ultrasound system for real-time monitoring of acoustic effects in mice using high-resolution MRI."** *NeuroImage*, 2023.
+
+4. **Yehhyun Jo**, Sang-Mok Lee, et al.  
    **"General‐Purpose Ultrasound Neuromodulation System for Chronic, Closed‐Loop Preclinical Studies in Freely Behaving Rodents."** *Advanced Science*, 2022.
 
-4. Seongyeon Kim†, **Yehhyun Jo†**, et al.  
+5. Seongyeon Kim†, **Yehhyun Jo†**, et al.  
    **"Transcranial focused ultrasound stimulation with high spatial resolution."** *Brain Stimulation*, 2021.
 
 ---
@@ -61,9 +66,11 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 - IEEE MEMS, Taiwan, 2025  
 - KSBNS Conference, Gyeongju, Korea, 2024  
-- ‘Young Scientist’ Minisymposium, KSBNS, Busan, 2023  
-- MRS Spring Meeting, Honolulu, 2022  
+- ‘Young Scientist’ Minisymposium, KSBNS, Busan, Korea, 2023  
+- MRS Spring Meeting, Honolulu, USA, 2022  
 - IEEE EMBS NER, Virtual, 2021
+- IEEE MEMS, Vancouver, Canada, 2020
+- IEEE EMBC, Berlin, Germany, 2019
 
 ---
 
@@ -71,5 +78,14 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 - **Ultrasonic holography device**, KR Patent No. 10-2283276  
 - **3D electrophysiology recording apparatus**, KR Patent No. 10-2326160, US Pending
+
+---
+
+**Journal review**
+
+- NPJ Acoustics, 2025
+- Journal of NeuroEngineering and Rehabilitation, 2025
+- Journal of Nanobiotechnology, 2024
+- Scientific Reports, 2024
 
 ---
