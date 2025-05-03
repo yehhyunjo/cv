@@ -9,12 +9,13 @@ title: "Yehhyun Jo"
 Curriculum Vitae
 
 Ph.D. Candidate, KAIST School of Electrical Engineering  
+Advisor: Hyunjoo Jenny Lee Ph.D. [BMM Lab](https://bmm.kaist.ac.kr)  
 
 Email: yehhyunjo18@kaist.ac.kr  
-[LinkedIn](https://www.linkedin.com/in/yehhyun-jo-01654924a)
+[LinkedIn](https://www.linkedin.com/in/yehhyun-jo-01654924a)  
 
 ---
-Hi, I’m Yehhyun, a biomedical engineering researcher with a focus on low-intensity focused ultrasound (LIFU) stimulation for therapeutics. I’m currently a PhD student at KAIST advised by Hyunjoo Jenny Lee PhD, where I’m building tools and techniques that bridge neural engineering, imaging, and therapeutics.
+Hi, I’m Yehhyun, a biomedical engineering researcher with a focus on low-intensity focused ultrasound (LIFU) stimulation for therapeutics. I’m currently a Ph.D. student at KAIST, where I’m building tools and techniques that bridge neural engineering, imaging, and therapeutics.
 
 My research explores how we can noninvasively stimulate specific neural circuits using ultrasound. I design closed-loop systems that combine electrophysiology, calcium imaging, and genetic tools to precisely map and modulate brain activity in real time.
 
