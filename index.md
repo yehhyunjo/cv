@@ -33,6 +33,10 @@ Minor in Science and Technology Policy
 
 **Visiting**
 
+**Institute for Basic Science**, Center for Cognition and Sociality
+*Student Researcher*, Spring 2024 - Spring 2026
+Advisor: Joo-Min Park Ph.D.
+
 **Stanford University**, Department of Electrical Engineering  
 *Visiting Student Researcher*, Fall 2024 – Spring 2025  
 Advisor: Hyongsok Tom Soh Ph.D.
