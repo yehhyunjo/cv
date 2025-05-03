@@ -15,9 +15,6 @@ Email: yehhyunjo18@kaist.ac.kr
 
 **Education**
 
-**Ph.D. in Electrical Engineering** — KAIST (Expected 2025)  
-Advisor: Hyunjoo Jenny Lee
-
 **M.S. in Electrical Engineering** — KAIST, 2022  
 Thesis: *Transcranial ultrasound stimulation for sleep and memory modulation in freely-moving mice*
 
