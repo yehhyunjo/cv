@@ -23,7 +23,7 @@ Minor in Science and Technology Policy
 
 ---
 
-**Visiting experience**
+**Visiting**
 
 **Stanford University**, Department of Electrical Engineering  
 *Visiting Student Researcher*, Fall 2024 – Spring 2025  
