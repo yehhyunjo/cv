@@ -26,7 +26,8 @@ If you’re interested in neuromodulation, mechanotransduction, or collaborative
 **Education**
 
 **M.S. in Electrical Engineering** — KAIST, 2022  
-Thesis: *Transcranial ultrasound stimulation for sleep and memory modulation in freely-moving mice*
+Thesis: *Transcranial ultrasound stimulation for sleep and memory modulation in freely-moving mice*  
+Advisor: Hyunjoo Jenny Lee Ph.D.
 
 **B.S. in Electrical Engineering** — KAIST, 2020  
 Minor in Science and Technology Policy
