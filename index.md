@@ -38,7 +38,7 @@ Minor in Science and Technology Policy
 **Visiting**
 
 **Institute for Basic Science**, Center for Cognition and Sociality  
-*Student Researcher*, Spring 2024 - Spring 2026  
+*Student Researcher*, Spring 2024 - Present  
 Advisor: Joo-Min Park Ph.D.
 
 **Stanford University**, Department of Electrical Engineering  
