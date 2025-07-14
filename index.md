@@ -82,6 +82,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 **Conferences**
 
+- Focused Ultrasound Neuromodulation (FUN) Conference, Hong Kong, 2025
 - IEEE MEMS, Kaohsiung, Taiwan, 2025  
 - KSBNS Conference, Gyeongju, Korea, 2024  
 - ‘Young Scientist’ Minisymposium, KSBNS Conference, Busan, Korea, 2023  
