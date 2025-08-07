@@ -51,7 +51,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 **Selected publications**
 
 1. **Yehhyun Jo**, Subeen Kim, Jinseong Jeong, and Hyunjoo Jenny Lee.  
-   **"Ultrasound brain stimulation technologies for targeted therapeutics."** *Nature Electronics*, Accepted.
+   **"Ultrasound brain stimulation technologies for targeted therapeutics."** *Nature Electronics*, 2025.
 
 2. **Yehhyun Jo†**, Xiaojia Liang†, et al.  
    **"Selective manipulation of excitatory and inhibitory neurons in top-down and bottom-up visual pathways using ultrasound stimulation of corticothalamic regions."** *Brain Stimulation*, 2025.
