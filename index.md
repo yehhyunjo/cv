@@ -72,6 +72,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
   
 **Honors & Awards**  
 
+- **Selected as a "next generation" researcher**, IPESK (Institute for Promotion of Engineering and Science of Korea), 2025
 - **Hanchulhee Augustino Scholarship**, KAIST EE, Spring 2024  
 - **Top 10 Research Achievements**, KAIST, 2022  
 - **Frontispiece Paper**, *Advanced Science*, 2022  
@@ -102,6 +103,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 **Reviewer work**
 
+- IEEE Open Journal of UFFC, 2025
 - NPJ Acoustics, 2025
 - Journal of NeuroEngineering and Rehabilitation, 2025
 - Journal of Nanobiotechnology, 2024
