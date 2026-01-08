@@ -8,7 +8,7 @@ title: "Yehhyun Jo"
 
 Curriculum Vitae
 
-**Ph.D. Candidate, KAIST School of Electrical Engineering**    
+**Postdoctoral researcher, KAIST School of Electrical Engineering**    
 Advisor: Hyunjoo Jenny Lee Ph.D.  
 [BMM Lab](https://bmm.kaist.ac.kr)  
 
@@ -26,6 +26,10 @@ If you’re interested in neuromodulation, mechanotransduction, or collaborative
 
 **Education**
 
+**Ph.D. in Electrical Engineering** — KAIST, 2026  
+Thesis: *Ultrasound brain stimulation technologies and monitoring systems for targeted therapeutics*  
+Advisor: Hyunjoo Jenny Lee Ph.D.
+
 **M.S. in Electrical Engineering** — KAIST, 2022  
 Thesis: *Transcranial ultrasound stimulation for sleep and memory modulation in freely-moving mice*  
 Advisor: Hyunjoo Jenny Lee Ph.D.
@@ -38,7 +42,7 @@ Minor in Science and Technology Policy
 **Visiting**
 
 **Institute for Basic Science**, Center for Cognition and Sociality  
-*Student Researcher*, Spring 2024 - Present  
+*Visiting Researcher*, Spring 2024 - Present  
 Advisor: Joo-Min Park Ph.D.
 
 **Stanford University**, Department of Electrical Engineering  
@@ -104,6 +108,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 **Reviewer work**
 
+- Translational Psychiatry, 2026
 - IEEE Open Journal of UFFC, 2025
 - NPJ Acoustics, 2025
 - Journal of NeuroEngineering and Rehabilitation, 2025
