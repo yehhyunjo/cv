@@ -8,19 +8,19 @@ title: "Yehhyun Jo"
 
 Curriculum Vitae
 
-**Postdoctoral researcher, KAIST School of Electrical Engineering**    
-Advisor: Hyunjoo Jenny Lee Ph.D.  
-[BMM Lab](https://bmm.kaist.ac.kr)  
+**Postdoctoral researcher, Center for Memory and Glioscience, Institute for Basic Science (IBS)**    
+Advisor: Joo-Min Park Ph.D.
+Center Director: Justin C. Lee Ph.D.
 
-Email: yehhyunjo18@kaist.ac.kr  
+Email: yehhyunjo18@gmail.com
 [LinkedIn](https://www.linkedin.com/in/yehhyun-jo-01654924a)  
 
 ---
-Hi, I’m Yehhyun, a biomedical engineering researcher with a focus on low-intensity focused ultrasound (LIFU) stimulation for therapeutics. I’m currently a postdoctoral researcher at KAIST, where I’m building tools and techniques that bridge neural engineering, imaging, and therapeutics.
+Hi, I’m Yehhyun, a biomedical engineer and neuroscientist with a focus on low-intensity focused ultrasound (LIFU) stimulation for glioscience-driven therapeutics. I completed my Ph.D. at KAIST under the supervision of Professor Jenny Lee with a focus on developing novel ultrasound stimulation neurotools for integration with biological readout techniques such as MRI, EEG, and calcium imaging. I’m currently a postdoctoral researcher at the Center for Memory and Glioscience at IBS, where I’m conducting fundamental research on the mechanobiology of neuro-glio-vascular dynamics through the mechanism of ultrasound stimulation. 
 
-My research explores how we can noninvasively stimulate specific neural circuits using ultrasound. I design closed-loop systems that combine electrophysiology, calcium imaging, and genetic tools to precisely map and modulate brain activity in real time.
+My research explores how we can noninvasively stimulate specific neural circuits, and modulate mechanosensitivity in the CNS and PNS using low-intensity focused ultrasound. I design closed-loop systems that combine electrophysiology, calcium imaging, and genetic tools to precisely map and modulate brain activity in real time.
 
-If you’re interested in neuromodulation, mechanotransduction, or collaborative tool development for neuroscience, feel free to get in touch.
+If you’re interested in neuromodulation, mechanobiology, mechanotransduction, or collaborative tool development for neuroscience, feel free to get in touch.
 
 ---
 
