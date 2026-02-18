@@ -45,7 +45,7 @@ Minor in Science and Technology Policy
 
 **Visiting**
 
-**Institute for Basic Science**, Center for Cognition and Sociality  
+**Institute for Basic Science**, Center for Memory and Glioscience  
 *Visiting Researcher*, Spring 2024 - Present  
 Advisor: Joo-Min Park Ph.D.
 
