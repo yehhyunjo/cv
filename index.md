@@ -8,8 +8,12 @@ title: "Yehhyun Jo"
 
 Curriculum Vitae
 
-**Postdoctoral researcher, Center for Memory and Glioscience, Institute for Basic Science (IBS)**    
+**Postdoctoral researcher**
+
+**Center for Memory and Glioscience, Institute for Basic Science (IBS)**    
+
 Advisor: Joo-Min Park Ph.D.
+
 Center Director: Justin C. Lee Ph.D.
 
 Email: yehhyunjo18@gmail.com
