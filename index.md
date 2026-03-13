@@ -2,7 +2,7 @@
 title: "Yehhyun Jo"
 ---
 
-# Yehhyun Jo
+# Yehhyun Jo Ph.D.
 
 ![Profile Photo](assets/NAEK_profile.jpg){: style="width:160px; float:left; margin-right:40px; border-radius:1px;" }
 
