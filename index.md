@@ -4,7 +4,7 @@ title: "Yehhyun Jo"
 
 # Yehhyun Jo
 
-![Profile Photo](assets/2023_KSBNS.jpg){: style="width:420px; float:right; margin-left:20px; border-radius:5px;" }
+
 
 Curriculum Vitae
 
@@ -90,6 +90,8 @@ Advisor: Hyongsok Tom Soh Ph.D.
 - **Grand Prize**, KAIST URP Program, 2018–2019  
 
 ---
+
+![Conference Photo 1](assets/2023_KSBNS.jpg){: style="width:320px; float:right; margin-left:20px; border-radius:1px;" }
 
 **Conferences**
 
