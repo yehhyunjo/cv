@@ -78,7 +78,17 @@ Advisor: Hyongsok Tom Soh Ph.D.
 ![Cover Image 4](assets/NAEK_wonik_award.jpg){: style="height:200px; float:left; margin-right:20px; border-radius:1px;" }
 ![Cover Image 3](assets/2025_IPESK_certificate.png){: style="height:200px; float:left; margin-right:20px; border-radius:1px;" }
 ![Cover Image 2](assets/advanced_science_2022_cover.jpg){: style="height:200px; float:left; margin-right:20px; border-radius:1px;" }
-![Cover Image 1](assets/brain_stimulation_2021_cover.jpg){: style="height:200px; float:left; margin-right:30px; border-radius:1px;" }
+![Cover Image 1](assets/brain_stimulation_2021_cover.jpg){: style="height:200px; float:left; margin-right:20px; border-radius:1px;" }
+
+.
+
+.
+
+.
+
+.
+
+.
 
 ---
 
