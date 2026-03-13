@@ -20,7 +20,7 @@ Email: yehhyunjo18@gmail.com
 [LinkedIn](https://www.linkedin.com/in/yehhyun-jo-01654924a)  
 
 ---
-Hi, I’m Yehhyun, a biomedical engineer and neuroscientist with a focus on low-intensity focused ultrasound (LIFU) stimulation for glioscience-driven therapeutics. I completed my Ph.D. at KAIST under the supervision of Professor Jenny Lee with a focus on developing novel ultrasound stimulation neurotools for integration with biological readout techniques such as MRI, EEG, and calcium imaging. I’m currently a postdoctoral researcher at the Center for Memory and Glioscience at IBS, where I’m conducting fundamental research on the mechanobiology of neuro-glio-vascular dynamics through the mechanism of ultrasound stimulation. 
+Hi, I’m Yehhyun, a biomedical engineer and neuroscientist working on low-intensity focused ultrasound (LIFU) stimulation for glioscience-driven therapeutics. I completed my Ph.D. at KAIST under the supervision of Professor Jenny Lee with a focus on developing novel ultrasound stimulation neurotools for integration with biological readout techniques such as MRI, EEG, and calcium imaging. I’m currently a postdoctoral researcher at the Center for Memory and Glioscience at the Institute for Basic Science (IBS), where I’m conducting fundamental research on the mechanobiology of neuro-glio-vascular dynamics through the mechanism of ultrasound stimulation. 
 
 My research explores how we can noninvasively stimulate specific neural circuits, and modulate mechanosensitivity in the CNS and PNS using low-intensity focused ultrasound. I design closed-loop systems that combine electrophysiology, calcium imaging, and genetic tools to precisely map and modulate brain activity in real time.
 
@@ -46,7 +46,7 @@ Minor in Science and Technology Policy
 **Visiting**
 
 **Institute for Basic Science**, Center for Memory and Glioscience  
-*Visiting Researcher*, Spring 2024 - Present  
+*Visiting Researcher*, Spring 2024 - Spring 2026  
 Advisor: Joo-Min Park Ph.D.
 
 **Stanford University**, Department of Electrical Engineering  
@@ -81,7 +81,8 @@ Advisor: Hyongsok Tom Soh Ph.D.
   
 **Honors & Awards**  
 
-- **Selected as a "next generation" researcher**, IPESK (Institute for Promotion of Engineering and Science of Korea), 2025
+- **WONIK Next-generation engineering award**, National Academy of Engineering of Korea (NAEK), 2026
+- **Selected as a "next-generation" researcher**, Institute for Promotion of Engineering and Science of Korea (IPESK), 2025
 - **Hanchulhee Augustino Scholarship**, KAIST EE, Spring 2024  
 - **Top 10 Research Achievements**, KAIST, 2022  
 - **Frontispiece Paper**, *Advanced Science*, 2022  
