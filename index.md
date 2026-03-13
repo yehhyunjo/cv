@@ -4,7 +4,7 @@ title: "Yehhyun Jo"
 
 # Yehhyun Jo
 
-![Profile Photo](assets/NAEK_profile.jpg){: style="width:200px; float:right; margin-left:20px; border-radius:1px;" }
+![Profile Photo](assets/NAEK_profile.jpg){: style="width:180px; float:left; margin-left:20px; border-radius:1px;" }
 
 Curriculum Vitae
 
@@ -77,6 +77,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 ![Cover Image 1](assets/brain_stimulation_2021_cover.jpg){: style="height:180px; float:right; margin-left:20px; border-radius:1px;" }
 ![Cover Image 2](assets/advanced_science_2022_cover.jpg){: style="height:180px; float:right; margin-left:20px; border-radius:1px;" }
+
 ![Cover Image 3](assets/2025_IPESK_certificate.png){: style="height:180px; float:right; margin-left:20px; border-radius:1px;" }
 ![Cover Image 4](assets/NAEK_wonik_award.jpg){: style="height:180px; float:right; margin-left:20px; border-radius:1px;" }
   
