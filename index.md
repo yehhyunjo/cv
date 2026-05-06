@@ -106,12 +106,18 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 ![Conference Photo 1](assets/2023_KSBNS.jpg){: style="width:320px; float:right; margin-left:20px; border-radius:1px;" }
 
+**Invited talks**
+
+- KOSOMBE Conference, Jeju-do, Korea, 2026 (The Korean Society for Medical and Biological Engineering)
+    Early Career Researcher Session
+- KSBNS Conference, Busan, Korea, 2023 (The Korean Society for Brain and Neural Sciences)
+    Early Career Researcher Minisymposium
+
 **Conferences**
 
 - Focused Ultrasound Neuromodulation (FUN) Conference, Hong Kong, 2025
-- IEEE MEMS, Kaohsiung, Taiwan, 2025  
-- KSBNS Conference, Gyeongju, Korea, 2024  
-- ‘Young Scientist’ Minisymposium, KSBNS Conference, Busan, Korea, 2023  
+- IEEE MEMS, Kaohsiung, Taiwan, 2025
+- KSBNS Conference, Gyeongju, Korea, 2024
 - MRS Spring Meeting, Honolulu, Hawaii, USA, 2022  
 - IEEE EMBS NER, Virtual, 2021  
 - IEEE MEMS, Vancouver, Canada, 2020  
