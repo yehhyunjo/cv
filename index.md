@@ -139,6 +139,6 @@ Advisor: Hyongsok Tom Soh Ph.D.
 - NPJ Acoustics, 2025
 - Journal of NeuroEngineering and Rehabilitation, 2025
 - Journal of Nanobiotechnology, 2024
-- Scientific Reports, 2024
+- Scientific Reports, 2024, 2026
 
 ---
