@@ -134,6 +134,7 @@ Advisor: Hyongsok Tom Soh Ph.D.
 
 **Reviewer work**
 
+- Advanced Functional Materials, 2026
 - NPJ Parkinson's Disease, 2026
 - Translational Psychiatry, 2026
 - IEEE Open Journal of UFFC, 2025
